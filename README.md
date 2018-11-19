@@ -1,4 +1,4 @@
 # HelloWorld
 GitHubTest
 
-Well, Just doing finny tets :p
+Well, Just doing funny test :p
